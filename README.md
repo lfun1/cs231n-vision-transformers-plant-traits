@@ -1,7 +1,7 @@
 # cs231n-vision-transformers-plant-traits
 ### **Ensemble Vision Transformers for Plant Traits Prediction**, Stanford CS 231N Final Project 2024.
 
-By **Lisa Fung** (lisafung@stanford.edu) and Annabelle Aurelia Jayadinata
+By **Lisa Fung** (lisafung@stanford.edu) and **Annabelle Aurelia Jayadinata** (abellej@stanford.edu)
 
 Our project serves as an entry for the [Kaggle competition PlantTraits2024 - FGVC11](https://www.kaggle.com/competitions/planttraits2024/), which aims to “advance
 our understanding of the global patterns of biodiversity.”
